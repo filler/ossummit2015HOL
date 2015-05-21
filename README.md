@@ -5,7 +5,7 @@
 Needless to say you'll need a laptop! For best experience, a Mac or Linux environment is preferred. In addition we'll need the following software pre-installed.
 
 - [Git](http://git-scm.com/downloads) or "brew install git"	
-- [The stackato CLI] (http://www.activestate.com/stackato/download_client) - download the latest version that is appropriate for your laptop and follow the instructions in README.txt.
+- [The stackato CLI] (http://www.activestate.com/stackato/download_client) - download the latest version that is appropriate for your laptop and follow the instructions in README.txt.  Or `brew cask install stackato` if you use [Homebrew Cask](http://caskroom.io/).
 
 During the HOL, we will help you with a sandbox environment (the details are below).
 
